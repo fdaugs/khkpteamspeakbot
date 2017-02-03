@@ -1,0 +1,63 @@
+virtualserver_unique_identifier=xC1iE0+mewO5KFdN5hYbcJ2k\/IM=
+virtualserver_name=Keine\sHose\sKein\sProblem\s-\sDas\swird\sgroß!
+virtualserver_welcomemessage=Moin\sMoin.
+virtualserver_platform=Linux
+virtualserver_version=3.0.13.6\s[Build:\s1478594913]
+virtualserver_maxclients=25
+virtualserver_password
+virtualserver_clientsonline=6
+virtualserver_channelsonline=37
+virtualserver_created=1467537492
+virtualserver_uptime=636908
+virtualserver_codec_encryption_mode=1
+virtualserver_hostmessage=Suche\skreative\sSprüche\sfür\sdie\sServernachricht.\sBitte\sPM\san\sFabsi\smit\sdem\sBetreff:\s"Du\sbist\sblöd"
+virtualserver_hostmessage_mode=2
+virtualserver_filebase=files\/virtualserver_215625
+virtualserver_default_server_group=2201438
+virtualserver_default_channel_group=1251674
+virtualserver_flag_password=0
+virtualserver_default_channel_admin_group=1251671
+virtualserver_max_download_total_bandwidth=18446744073709551615
+virtualserver_max_upload_total_bandwidth=18446744073709551615
+virtualserver_hostbanner_url=https:\/\/soundcloud.com\/drunkenmasters\/ssio-halb-mensch-halb-nase-drunken-masters-air-max-1-remix
+virtualserver_hostbanner_gfx_url=http:\/\/i.imgur.com\/dr2i0I2.png
+virtualserver_hostbanner_gfx_interval=1200
+virtualserver_complain_autoban_count=5
+virtualserver_complain_autoban_time=1200
+virtualserver_complain_remove_time=3600
+virtualserver_min_clients_in_channel_before_forced_silence=100
+virtualserver_priority_speaker_dimm_modificator=-18.0000
+virtualserver_id=215625
+virtualserver_antiflood_points_tick_reduce=100000
+virtualserver_antiflood_points_needed_command_block=100000
+virtualserver_antiflood_points_needed_ip_block=100000
+virtualserver_client_connections=128
+virtualserver_query_client_connections=291
+virtualserver_hostbutton_tooltip=4Netplayers.de
+virtualserver_hostbutton_url=http:\/\/banner.4players.de\/teamspeak3\/redirect.php?reseller=4NP&language=de&location=dus
+virtualserver_hostbutton_gfx_url=http:\/\/banner.4players.de\/teamspeak3\/logo.php?reseller=4NP&language=de&location=dus
+virtualserver_queryclientsonline=2 virtualserver_download_quota=0
+virtualserver_upload_quota=0 virtualserver_month_bytes_downloaded=2631893
+virtualserver_month_bytes_uploaded=172576 virtualserver_total_bytes_downloaded=10263859
+virtualserver_total_bytes_uploaded=1623519 virtualserver_port=10122
+virtualserver_autostart=1 virtualserver_machine_id=62.104.20.155
+virtualserver_needed_identity_security_level=8 virtualserver_log_client=0 virtualserver_log_query=0
+virtualserver_log_channel=0 virtualserver_log_permissions=1
+virtualserver_log_server=0
+virtualserver_log_filetransfer=0
+virtualserver_min_client_version=1445512488
+virtualserver_name_phonetic
+virtualserver_icon_id=916649827
+virtualserver_reserved_slots=0
+virtualserver_total_packetloss_speech=0.0002
+virtualserver_total_packetloss_keepalive=0.0005
+virtualserver_total_packetloss_control=0.0000
+virtualserver_total_packetloss_total=0.0000
+virtualserver_total_ping=24.7500
+virtualserver_ip=62.104.20.155
+virtualserver_weblist_enabled=1
+virtualserver_ask_for_privilegekey=0
+virtualserver_hostbanner_mode=2
+virtualserver_channel_temp_delete_delay_default=0
+virtualserver_min_android_version=1407159763
+virtualserver_min_ios_version=1407159763
